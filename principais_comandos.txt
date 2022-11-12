@@ -1,0 +1,15 @@
+
+echo ‘hello’ - faz hello aparecer na tela
+pwd - mostra em qual pasta estamos  
+ls - lista todos os itens que estão no diretório 
+mkdir - o comando para criar uma nova pasta
+cd - entra na pasta desejada
+touch - cria um novo arquivo ou atualiza um já existente
+echo ‘hello’ >> file.txt - faz hello aparecer dentro do arquivo txt
+cat file.txt - pega o conteúdo do arquivo txt
+less file.txt - exibe o conteúdo do arquivo 
+cp - copia o arquivo
+mv - move o conteúdo de um arquivo para outro 
+rm - remove/apaga o arquivo
+rm -rf - apaga uma pasta
+history - mostra o histórico de comandos
