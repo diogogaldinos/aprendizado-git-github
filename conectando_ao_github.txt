@@ -1,0 +1,8 @@
+Na sua página do Github, crie um novo repositório, com o nome de voyager1 e uma descrição curta
+Crie uma pasta com o nome do repositório
+Faça o git init
+Abra o vscode,  crie um arquivo [README.md](http://README.md) e adicione alguma informação sobre o projeto
+No terminal adiciona o projeto na área de seleção ( staged )
+Faça o primeiro commit 
+Faça o link do projeto, uma origem remota ( linkar o projeto que está na maquina com o projeto no github )
+Para subir o projeto pro github, git push origin master
