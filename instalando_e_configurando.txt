@@ -1,0 +1,6 @@
+Instalar o Git basta ir no site https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git e seguir o passo-a-passo.
+
+Para configurar, pensando em um ambiente corporativo, onde muitas pessoas acessam o mesmo projeto, configuramos o Git com nosso nome e email
+
+git config --global user.name "Diogo Galdino"
+git config --global user.email "diogo.galdino503@gmail.com"
